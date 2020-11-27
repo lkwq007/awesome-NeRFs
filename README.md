@@ -16,10 +16,19 @@
 - github: https://github.com/Kai-46/nerfplusplus
 - paper: https://arxiv.org/abs/2010.07492
 
+## Deformable Neural Radiance Fields
+
+- project page: https://nerfies.github.io/
+- paper: https://arxiv.org/abs/2011.12948
+
 ## Space-time Neural Irradiance Fields for Free-Viewpoint Video
 
 - project page: https://video-nerf.github.io
 - paper: https://arxiv.org/abs/2011.12950
+
+## GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis
+
+- paper: https://arxiv.org/abs/2007.02442
 
 ## GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
 
